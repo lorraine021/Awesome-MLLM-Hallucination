@@ -39,8 +39,10 @@ Here are some work that could evaluate the hallucination performances of MLLMs, 
 
 
 ### Hallucination Mitigation methods 
-
-
+1. Enhancing the Spatial Awareness Capability of Multi-Modal Large Language Model, arxiv, 2023, Zhao, Yongqiang, et al.[[PDF](https://arxiv.org/pdf/2310.20357.pdf)]   [__`vis.`__]
+2. VCoder: Versatile Vision Encoders for Multimodal Large Language Models, CVPR 2024, Jain, et al.[[PDF](https://arxiv.org/pdf/2312.14233.pdf)][[Code/Data](https://github.com/SHI-Labs/VCoder)]   [__`vis.`__]
+3. Hallucination Augmented Contrastive Learning for Multimodal Large Language Model, arxiv, 2023, Jiang, Chaoya, et al.[[PDF](https://arxiv.org/pdf/2312.06968v3.pdf)][[Code/Data](https://github.com/X-PLUG/mPLUG-HalOwl/tree/main/hacl)]   [__`align.`__]
+4. 
 
 ### Other
 1. Hallucination improves the performance of unsupervised visual representation learning, ICCV 2023, Wu, Jing, et al.[[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Hallucination_Improves_the_Performance_of_Unsupervised_Visual_Representation_Learning_ICCV_2023_paper.pdf)]  
