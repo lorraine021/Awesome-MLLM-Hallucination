@@ -54,6 +54,10 @@ __`post.`__: post-process &emsp;
 |3|Position-Enhanced Visual Instruction Tuning for Multimodal Large Language Models|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2308.13437-b31b1b.svg)](https://arxiv.org/pdf/2308.13437.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/PVIT-official/PVI)|:large_blue_diamond:| __`vis.`__ __`align.`__|
 |4|VCoder: Versatile Vision Encoders for Multimodal Large Language Models|CVPR(2024)|[![arXiv](https://img.shields.io/badge/arXiv-2312.14233-b31b1b.svg)](https://arxiv.org/pdf/2312.14233.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/SHI-Labs/VCoder)|:heavy_minus_sign:| __`vis.`__ |
 |5|SEEING IS BELIEVING: MITIGATING HALLUCINATION IN LARGE VISION-LANGUAGE MODELS VIA CLIP-GUIDED DECODING|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2402.15300v1-b31b1b.svg)](https://arxiv.org/pdf/2402.15300v1.pdf) |:heavy_minus_sign:|:heavy_minus_sign:|__`dec.`__|
+|6|OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation|CVPR(2024)|[![arXiv](https://img.shields.io/badge/arXiv-2311.17911-b31b1b.svg)](https://arxiv.org/pdf/2311.17911.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/shikiw/OPERA)|:heavy_minus_sign:| __`dec.`__ |
+|7|Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2311.16922-b31b1b.svg)](https://arxiv.org/pdf/2311.16922.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/DAMO-NLP-SG/VCD)|:heavy_minus_sign:| __`dec.`__ |
+
+
 
 
 ### Other
