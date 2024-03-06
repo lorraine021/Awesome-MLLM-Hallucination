@@ -1,12 +1,12 @@
 # Awesome-MLLM-Hallucination
-This repository collects research on the hallucination problem of Multimodal Large Language Model(MLLM), including their papers and codes/datasets (TODO).  
-The main aspects involved are Surveys, Hallucination Evaluation methods (Benchmarks), Hallucination Mitigation methods and some intersting papers that are not directly related to the current topic. Since some of the papers are relatively new and cannot be sure whether they have been included in the specific conferences, they are currently only marked according to the conference acceptance status of the articles that Google Scholar can find.  
+This repository collects research on the hallucination problem of the Multimodal Large Language Model(MLLM), including their papers and codes/datasets.  
+The main aspects involved are Surveys, Hallucination Evaluation methods (Benchmarks), Hallucination Mitigation methods and some interesting papers that are not directly related to the current topic. Since some of the papers are relatively new and cannot be sure whether they have been included in the specific conferences, they are currently only marked according to the conference acceptance status of the articles that Google Scholar can find.  
 If you find some interesting papers not included, please feel free to contact me. We will continue to update this repository!
 
-
+Here are some labels which represent the core points of the papers, corresponding to benchmarks or mitigation methods from different angles:   
 __`data.`__: data improvement &emsp; | &emsp; __`vis.`__: vision enhancement &emsp; | &emsp;
 __`align.`__: multimodal alignment &emsp; | &emsp; __`dec.`__: decoding optimization &emsp; |
-__`post.`__: post-process &emsp; | &emsp; __`ben.`__: benchmark  
+__`post.`__: post-process &emsp; | &emsp; __`ben.`__: it creates a benchmark  
 
 :large_blue_diamond: citation >= 20 &emsp; | &emsp; :star: citation >= 50 &emsp; | &emsp; :fire: citation >= 100
 
@@ -22,7 +22,7 @@ __`post.`__: post-process &emsp; | &emsp; __`ben.`__: benchmark
 2. A Survey of Hallucination in “Large” Foundation Models, arxiv, 2024, Rawte, et al. [[PDF](https://arxiv.org/pdf/2309.05922.pdf)] :star:
 
 ### Benchmarks
-Here are some work that could evaluate the hallucination performances of MLLMs, including some popular benchmarks. Most work products fine-tuning using their benchmark dataset, which could reduce its likelihood to hallucinate without sacrificing its performance on other benchmarks. And some papers have designed clever ways to construct such datasets.
+Here are some works that could evaluate the hallucination performances of MLLMs, including some popular benchmarks. Most work products fine-tuning using their benchmark dataset, which could reduce the likelihood of hallucinating without sacrificing its performance on other benchmarks. And some papers have designed clever ways to construct such datasets.
 1. MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models, arxiv, 2023, Fu, Chaoyou, et al.[[PDF](https://arxiv.org/pdf/2306.13394.pdf)][[Code/Data](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]   [__`ben.`__:MME] :fire: 
 2. Evaluating Object Hallucination in Large Vision-Language Models, EMNLP 2023, Li, Yifan, et al.[[PDF](https://arxiv.org/pdf/2305.10355.pdf)] [__`ben.`__:POPE] :fire: 
 3. HALLUSIONBENCH: An Advanced Diagnostic Suite for Entangled Language Hallucination & Visual Illusion in Large Vision-Language Models, arxiv, 2023, Guan, Tianrui, et al.[[PDF](https://www.researchgate.net/profile/Fuxiao-Liu-2/publication/376072740_HALLUSIONBENCH_An_Advanced_Diagnostic_Suite_for_Entangled_Language_Hallucination_Visual_Illusion_in_Large_Vision-Language_Models/links/6568af0e3fa26f66f43abf17/HALLUSIONBENCH-An-Advanced-Diagnostic-Suite-for-Entangled-Language-Hallucination-Visual-Illusion-in-Large-Vision-Language-Models.pdf)][[Code/Data](https://drive.google.com/drive/folders/1C_IA5rx_Hm67TYpdNf3TL5VlM30TLGRQ)]  [__`ben.`__:HALLUSIONBENCH]
