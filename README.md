@@ -4,6 +4,8 @@ This repository collects research on the hallucination problem of the Multimodal
 ✈️
 The main aspects involved are **Surveys**, **Benchmarks**, **Hallucination Mitigation methods** and some interesting papers that are not directly related to the current topic. Since some of the papers are relatively new and cannot be sure whether they have been included in the specific conferences, they are currently only marked according to the conference acceptance status of the articles that Google Scholar can find.  
 
+Besides, we have extracted the name or the core solution's category of each paper for you to read in a targeted manner.
+
 If you find some interesting papers not included, please feel free to contact me. We will continue to update this repository! :sunny:
 
 :large_blue_diamond: citation >= 20 &emsp; | &emsp; :star: citation >= 50 &emsp; | &emsp; :fire: citation >= 100
