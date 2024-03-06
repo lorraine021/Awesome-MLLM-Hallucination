@@ -45,7 +45,8 @@ Here are some works that could evaluate the hallucination performances of MLLMs,
 
 
 ### Hallucination Mitigation methods 
-Here are some labels that represent the core points of the papers, corresponding to benchmarks or mitigation methods from different angles:  &emsp; __`data.`__: data improvement (most benchmarks) &emsp; | &emsp; __`vis.`__: vision enhancement &emsp; | &emsp;
+Here are some labels that represent the core points of the papers, corresponding to mitigation methods from different angles:  
+ __`data.`__: data improvement (most benchmarks) &emsp; | &emsp; __`vis.`__: vision enhancement &emsp; | &emsp;
 __`align.`__: multimodal alignment &emsp; | &emsp;
 __`dec.`__: decoding optimization &emsp; | &emsp; __`post.`__: post-process &emsp; | &emsp; __`else.`__: other kinds
 
