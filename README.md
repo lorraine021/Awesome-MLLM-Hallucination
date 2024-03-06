@@ -1,12 +1,7 @@
 # Awesome-MLLM-Hallucination
 This repository collects research on the hallucination problem of the Multimodal Large Language Model(MLLM), including their papers and codes/datasets.  
 The main aspects involved are Surveys, Hallucination Evaluation methods (Benchmarks), Hallucination Mitigation methods and some interesting papers that are not directly related to the current topic. Since some of the papers are relatively new and cannot be sure whether they have been included in the specific conferences, they are currently only marked according to the conference acceptance status of the articles that Google Scholar can find.  
-If you find some interesting papers not included, please feel free to contact me. We will continue to update this repository!
-
-Here are some labels that represent the core points of the papers, corresponding to benchmarks or mitigation methods from different angles:   
-__`data.`__: data improvement &emsp; | &emsp; __`vis.`__: vision enhancement &emsp; | &emsp;
-__`align.`__: multimodal alignment &emsp; | &emsp; __`dec.`__: decoding optimization &emsp; |
-__`post.`__: post-process &emsp; | &emsp; __`ben.`__: it creates a benchmark  
+If you find some interesting papers not included, please feel free to contact me. We will continue to update this repository! 
 
 :large_blue_diamond: citation >= 20 &emsp; | &emsp; :star: citation >= 50 &emsp; | &emsp; :fire: citation >= 100
 
@@ -47,14 +42,24 @@ Here are some works that could evaluate the hallucination performances of MLLMs,
 
 
 ### Hallucination Mitigation methods 
-1. [[PDF](https://arxiv.org/pdf/2310.20357.pdf)] Enhancing the Spatial Awareness Capability of Multi-Modal Large Language Model, arxiv, 2023, Zhao, Yongqiang, et al.   [__`vis.`__]
-2. [[PDF](https://arxiv.org/pdf/2312.06968v3.pdf)][[Code/Data](https://github.com/X-PLUG/mPLUG-HalOwl/tree/main/hacl)] Hallucination Augmented Contrastive Learning for Multimodal Large Language Model, arxiv, 2023, Jiang, Chaoya, et al.   [__`align.`__]
-3. [[PDF](https://arxiv.org/pdf/2308.13437.pdf)][[Code/Data](https://github.com/PVIT-official/PVIT)] Position-Enhanced Visual Instruction Tuning for Multimodal Large Language Models, arxiv, 2023, Chen, Chi, et al.   [__`vis.`__][__`align.`__] :large_blue_diamond:
-4. [[PDF](https://arxiv.org/pdf/2312.14233.pdf)][[Code/Data](https://github.com/SHI-Labs/VCoder)] VCoder: Versatile Vision Encoders for Multimodal Large Language Models, CVPR 2024, Jain, et al.   [__`vis.`__]
-5. SEEING IS BELIEVING: MITIGATING HALLUCINATION IN LARGE VISION-LANGUAGE MODELS VIA CLIP-GUIDED DECODING, arxiv, 2024   [__`dec.`__]
+Here are some labels that represent the core points of the papers, corresponding to benchmarks or mitigation methods from different angles:   
+__`data.`__: data improvement &emsp; | &emsp; __`vis.`__: vision enhancement &emsp; | &emsp;
+__`align.`__: multimodal alignment &emsp; | &emsp; __`dec.`__: decoding optimization &emsp; |
+__`post.`__: post-process &emsp; 
+
+| **Number** | **Title** | **Conference(Date)** | **Paper** | **Repo** | **Citation** | **Core** |
+|:--------:|:--------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+|1|Enhancing the Spatial Awareness Capability of Multi-Modal Large Language Model|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2310.20357-b31b1b.svg)](https://arxiv.org/pdf/2310.20357.pdf) |:heavy_minus_sign:|:heavy_minus_sign:|__`vis.`__|
+|2|Hallucination Augmented Contrastive Learning for Multimodal Large Language Model|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2312.06968v3-b31b1b.svg)](https://arxiv.org/pdf/2312.06968v3.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/X-PLUG/mPLUG-HalOwl/tree/main/hacl)|:heavy_minus_sign:| __`align.`__|
+|3|Position-Enhanced Visual Instruction Tuning for Multimodal Large Language Models|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2308.13437-b31b1b.svg)](https://arxiv.org/pdf/2308.13437.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/PVIT-official/PVI)|:large_blue_diamond:| __`vis.`__ __`align.`__|
+|4|VCoder: Versatile Vision Encoders for Multimodal Large Language Models|CVPR(2024)|[![arXiv](https://img.shields.io/badge/arXiv-2312.14233-b31b1b.svg)](https://arxiv.org/pdf/2312.14233.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/SHI-Labs/VCoder)|:heavy_minus_sign:| __`vis.`__ |
+|5|SEEING IS BELIEVING: MITIGATING HALLUCINATION IN LARGE VISION-LANGUAGE MODELS VIA CLIP-GUIDED DECODING|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2402.15300v1-b31b1b.svg)](https://arxiv.org/pdf/2402.15300v1.pdf) |:heavy_minus_sign:|:heavy_minus_sign:|__`dec.`__|
+
 
 ### Other
 Here are some papers that are not directly related to MLLM hallucinations, but may have unexpected inspiration for you.
-1. [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Hallucination_Improves_the_Performance_of_Unsupervised_Visual_Representation_Learning_ICCV_2023_paper.pdf)] Hallucination improves the performance of unsupervised visual representation learning, ICCV 2023, Wu, Jing, et al.  
-2. [[PDF](https://arxiv.org/pdf/2111.08276.pdf)][[Code/Data](https://github.com/zengyan-97/X-VLM)] Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts, ICML 2022, Zeng, Yan, et al. :fire:
-
+| **Number** | **Title** | **Conference(Date)** | **Paper** | **Repo** | **Citation** |
+|:--------:|:--------:|:---------:|:---------:|:---------:|:---------:|
+|1|Hallucination improves the performance of unsupervised visual representation learning|ICCV(2023)|[![arXiv](https://img.shields.io/badge/arXiv-2307.12168-b31b1b.svg)](https://arxiv.org/pdf/2307.12168.pdf) |:heavy_minus_sign:|:heavy_minus_sign:|
+|2|Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts|ICML(2022)|[![arXiv](https://img.shields.io/badge/arXiv-2111.08276-b31b1b.svg)](https://arxiv.org/pdf/2111.08276.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/zengyan-97/X-VLM)|:fire:|
+ 
