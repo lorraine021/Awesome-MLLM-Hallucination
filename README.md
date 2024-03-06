@@ -42,10 +42,9 @@ Here are some works that could evaluate the hallucination performances of MLLMs,
 
 
 ### Hallucination Mitigation methods 
-Here are some labels that represent the core points of the papers, corresponding to benchmarks or mitigation methods from different angles:   
-__`data.`__: data improvement &emsp; | &emsp; __`vis.`__: vision enhancement &emsp; | &emsp;
-__`align.`__: multimodal alignment &emsp; | &emsp; __`dec.`__: decoding optimization &emsp; |
-__`post.`__: post-process &emsp; 
+Here are some labels that represent the core points of the papers, corresponding to benchmarks or mitigation methods from different angles:  &emsp; __`data.`__: data improvement (most benchmarks) &emsp; | &emsp; __`vis.`__: vision enhancement &emsp; | &emsp;
+__`align.`__: multimodal alignment &emsp; | &emsp;
+__`dec.`__: decoding optimization &emsp; | &emsp; __`post.`__: post-process &emsp; | &emsp; __`else.`__: other kinds
 
 | **Number** | **Title** | **Conference(Date)** | **Paper** | **Repo** | **Citation** | **Core** |
 |:--------:|:--------:|:---------:|:---------:|:---------:|:---------:|:---------:|
@@ -56,6 +55,9 @@ __`post.`__: post-process &emsp;
 |5|SEEING IS BELIEVING: MITIGATING HALLUCINATION IN LARGE VISION-LANGUAGE MODELS VIA CLIP-GUIDED DECODING|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2402.15300v1-b31b1b.svg)](https://arxiv.org/pdf/2402.15300v1.pdf) |:heavy_minus_sign:|:heavy_minus_sign:|__`dec.`__|
 |6|OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation|CVPR(2024)|[![arXiv](https://img.shields.io/badge/arXiv-2311.17911-b31b1b.svg)](https://arxiv.org/pdf/2311.17911.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/shikiw/OPERA)|:heavy_minus_sign:| __`dec.`__ |
 |7|Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2311.16922-b31b1b.svg)](https://arxiv.org/pdf/2311.16922.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/DAMO-NLP-SG/VCD)|:heavy_minus_sign:| __`dec.`__ |
+|8|Woodpecker: Hallucination Correction for Multimodal Large Language Models|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2310.16045-b31b1b.svg)](https://arxiv.org/pdf/2310.16045.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/BradyFU/Woodpecker)|:large_blue_diamond:| __`post.`__ |
+|9|【Lure】Analyzing and mitigating object hallucination in large vision-language models|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2310.00754-b31b1b.svg)](https://arxiv.org/pdf/2310.00754.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/YiyangZhou/LURE)|:large_blue_diamond:| __`post.`__ |
+|10|VIGC: Visual Instruction Generation and Correction|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2308.12714-b31b1b.svg)](https://arxiv.org/pdf/2308.12714.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/BradyFU/Woodpecker)|:large_blue_diamond:| __`post.`__ |
 
 
 
