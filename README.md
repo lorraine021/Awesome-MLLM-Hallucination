@@ -12,7 +12,7 @@ __`post.`__: post-process &emsp; | &emsp; __`ben.`__: benchmark
 
 ## Contents  
 1. [Surveys](#Surveys)
-2. [Hallucination Evaluation methods (Benchmarks)](#Hallucination-Evaluation-methods)
+2. [Hallucination Evaluation methods(Benchmarks)](#Hallucination-Evaluation-methods)
 3. [Hallucination Mitigation methods](#Hallucination-Mitigation-methods)
 4. [Other](#Other)
    
@@ -21,7 +21,7 @@ __`post.`__: post-process &emsp; | &emsp; __`ben.`__: benchmark
 1. A Survey on Hallucination in Large Vision-Language Models, arxiv, 2024, Liu, Hanchao, et al.[[PDF](https://arxiv.org/pdf/2402.00253.pdf)]
 2. A Survey of Hallucination in “Large” Foundation Models, arxiv, 2024, Rawte, et al. [[PDF](https://arxiv.org/pdf/2309.05922.pdf)] :star:
 
-### Hallucination Evaluation methods (Benchmarks)
+### Hallucination Evaluation methods(Benchmarks)
 Most work products fine-tuning using their benchmark dataset, which reduces its likelihood to hallucinate without sacrificing its performance on other benchmarks. And some papers have designed clever ways to construct such datasets.
 1. MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models, arxiv, 2023, Fu, Chaoyou, et al.[[PDF](https://arxiv.org/pdf/2306.13394.pdf)][[Code/Data](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]   [__`ben.`__:MME] :fire: 
 2. Evaluating Object Hallucination in Large Vision-Language Models, EMNLP 2023, Li, Yifan, et al.[[PDF](https://arxiv.org/pdf/2305.10355.pdf)] [__`ben.`__:POPE] :fire: 
@@ -43,7 +43,7 @@ Most work products fine-tuning using their benchmark dataset, which reduces its 
 
 
 ### Other
-1. Hallucination improves the performance of unsupervised visual representation learning, ICCV 2023, [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Hallucination_Improves_the_Performance_of_Unsupervised_Visual_Representation_Learning_ICCV_2023_paper.pdf)]  
+1. Hallucination improves the performance of unsupervised visual representation learning, ICCV 2023, Wu, Jing, et al.[[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Hallucination_Improves_the_Performance_of_Unsupervised_Visual_Representation_Learning_ICCV_2023_paper.pdf)]  
 
 
 
