@@ -81,7 +81,7 @@ __`dec.`__: decoding optimization &emsp; | &emsp; __`post.`__: post-process &ems
 |22|EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models|arxiv(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.09801-b31b1b.svg)](https://arxiv.org/pdf/2402.09801.pdf) |:heavy_minus_sign:|:heavy_minus_sign:| __`other.`__  (Unlearning)|
 
 
-### Other
+### Others
 Here are some papers that are not directly related to MLLM hallucinations, but may have unexpected inspiration for you.
 | **Number** | **Title** | **Venue** | **Paper** | **Repo** | **Citation** |
 |:--------:|:--------:|:---------:|:---------:|:---------:|:---------:|
