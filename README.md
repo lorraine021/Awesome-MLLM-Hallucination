@@ -82,6 +82,11 @@ __`dec.`__: decoding optimization &emsp; | &emsp; __`post.`__: post-process &ems
 |22|Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models|arxiv(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.11622-b31b1b.svg)](https://arxiv.org/pdf/2402.11622.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-code-7395C5.svg)](https://github.com/Hyperwjf/LogicCheckGPT)|:heavy_minus_sign:| __`other.`__  (through Logical Closed Loops [answer verification])|
 |23|EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models|arxiv(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.09801-b31b1b.svg)](https://arxiv.org/pdf/2402.09801.pdf) |:heavy_minus_sign:|:heavy_minus_sign:| __`other.`__  (Unlearning)|
 |24|Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models|arxiv(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.15721-b31b1b.svg)](https://arxiv.org/pdf/2402.15721.pdf) |:heavy_minus_sign:|:heavy_minus_sign:| __`other.`__  (COT)|
+|25|Evaluating and Mitigating Number Hallucinations in Large Vision-Language Models: A Consistency Perspective|arxiv(24.03)|[![arXiv](https://img.shields.io/badge/arXiv-2403.01373-b31b1b.svg)](https://arxiv.org/pdf/2403.01373.pdf) |:heavy_minus_sign:|:heavy_minus_sign:| __`other.`__  (inconsistency for number hallucination)|
+
+
+
+
 
 ### Others
 Here are some papers that are not directly related to MLLM hallucinations, but may have unexpected inspiration for you.
