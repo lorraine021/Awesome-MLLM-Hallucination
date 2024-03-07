@@ -14,7 +14,7 @@ If you find some interesting papers not included, please feel free to contact me
 -  [Surveys](#Surveys)
 -  [Benchmarks](#Benchmarks)
 -  [Hallucination Mitigation methods](#Hallucination-Mitigation-methods)
--  [Other](#Other)
+-  [Other](#Others)
    
 ## Papers
 ### Surveys
