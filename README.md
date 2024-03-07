@@ -11,7 +11,7 @@ If you find some interesting papers not included, please feel free to contact me
 :large_blue_diamond: citation >= 20 &emsp; | &emsp; :star: citation >= 50 &emsp; | &emsp; :fire: citation >= 100
 
 ## Contents  
-- [Surveys](#Surveys)
+-  [Surveys](#Surveys)
 -  [Benchmarks](#Benchmarks)
 -  [Hallucination Mitigation methods](#Hallucination-Mitigation-methods)
 -  [Other](#Other)
@@ -72,7 +72,7 @@ __`dec.`__: decoding optimization &emsp; | &emsp; __`post.`__: post-process &ems
 |14|VIGC: Visual Instruction Generation and Correction|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2308.12714-b31b1b.svg)](https://arxiv.org/pdf/2308.12714.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-opendatalab-7395C5.svg)](https://opendatalab.github.io/VIGC/)|:large_blue_diamond:| __`other.`__    (Iterative Generation)|
 |15|Can We Edit Multimodal Large Language Models?|EMNLP(2023)|[![arXiv](https://img.shields.io/badge/arXiv-2310.08475-b31b1b.svg)](https://arxiv.org/pdf/2310.08475.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-code-7395C5.svg)](https://github.com/zjunlp/EasyEdit)|:heavy_minus_sign:| __`other.`__    (Model Edition)|
 |16|HALO:Estimation and Reduction of Hallucinations in Open-Source Weak Large Language Models|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2308.11764-b31b1b.svg)](https://arxiv.org/pdf/2308.11764.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-code-7395C5.svg)](https://github.com/EngSalem/HaLo)|:heavy_minus_sign:| __`other.`__    (knowledge Injection and Teacher-Student Approaches)|
-
+|17|VOLCANO: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2311.07362-b31b1b.svg)](https://arxiv.org/pdf/2311.07362.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-code-7395C5.svg)](https://github.com/kaistAI/Volcano)|:heavy_minus_sign:| __`other.`__    (self-feedback as visual cues)|
 
 
 
