@@ -42,6 +42,8 @@ Here are some works that could evaluate the hallucination performances of MLLMs,
 |13|Eyes wide shut? exploring the visual shortcomings of multimodal llms|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2401.06209-b31b1b.svg)](https://arxiv.org/pdf/2401.06209.pdf) |:heavy_minus_sign:|:heavy_minus_sign:| MMVP|
 |14|Evaluation and Enhancement of Semantic Grounding in Large Vision-Language Models|AAAI-ReLM Workshop(2024)|[![arXiv](https://img.shields.io/badge/arXiv-2309.04041-b31b1b.svg)](https://arxiv.org/pdf/2309.04041.pdf) |:heavy_minus_sign:|:heavy_minus_sign:| MSG-MCQ| 
 |15|Detecting and Preventing Hallucinations in Large Vision Language Models|AAAI(2024)|[![arXiv](https://img.shields.io/badge/arXiv-2308.06394-b31b1b.svg)](https://arxiv.org/pdf/2308.06394.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/hendryx-scale/mhal-detect)|:large_blue_diamond:| M-HalDetect|
+|16|Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2402.15721-b31b1b.svg)](https://arxiv.org/pdf/2402.15721.pdf) |:heavy_minus_sign:|:heavy_minus_sign:|Hal-Eval|
+
 
 
 
@@ -79,5 +81,6 @@ Here are some papers that are not directly related to MLLM hallucinations, but m
 |2|Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts|ICML(2022)|[![arXiv](https://img.shields.io/badge/arXiv-2111.08276-b31b1b.svg)](https://arxiv.org/pdf/2111.08276.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/zengyan-97/X-VLM)|:fire:|
 |3|Overcoming Language Priors in Visual Question Answering via Distinguishing Superficially Similar Instances|COLING(2022)|[![arXiv](https://img.shields.io/badge/arXiv-2209.08529-b31b1b.svg)](https://arxiv.org/pdf/2209.08529.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/wyk-nku/Distinguishing-VQA)|:heavy_minus_sign:|
 |4|Polos: Multimodal Metric Learning from Human Feedback for Image Captioning|CVPR(2024)|[![arXiv](https://img.shields.io/badge/arXiv-2402.18091-b31b1b.svg)](https://arxiv.org/pdf/2402.18091.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/keio-smilab24/polos)|:heavy_minus_sign:|
+|5|Successfully Guiding Humans with Imperfect Instructions by Highlighting Potential Errors and Suggesting Corrections|:heavy_minus_sign:|[![arXiv](https://img.shields.io/badge/arXiv-2402.16973-b31b1b.svg)](https://arxiv.org/pdf/2402.16973.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/lingjunzhao/HEAR)|:heavy_minus_sign:|
 
  
