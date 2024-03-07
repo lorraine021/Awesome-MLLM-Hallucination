@@ -76,7 +76,7 @@ __`dec.`__: decoding optimization &emsp; | &emsp; __`post.`__: post-process &ems
 |18|Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization|:heavy_minus_sign:(23.11)|[![arXiv](https://img.shields.io/badge/arXiv-2311.16839-b31b1b.svg)](https://arxiv.org/pdf/2311.16839.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-code-7395C5.svg)](https://github.com/opendatalab/HA-DPO)|:heavy_minus_sign:| __`other.`__  (trained to favor the non-hallucinating response as a Preference Selection Task)|
 |19|Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective|:heavy_minus_sign:(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.14545-b31b1b.svg)](https://arxiv.org/pdf/2402.14545.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-code-7395C5.svg)](https://github.com/yuezih/less-is-more)|:heavy_minus_sign:| __`other.`__  (Enhancement for Better EOS Decisions)|
 |20|Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models|:heavy_minus_sign:(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.11622-b31b1b.svg)](https://arxiv.org/pdf/2402.11622.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-code-7395C5.svg)](https://github.com/Hyperwjf/LogicCheckGPT)|:heavy_minus_sign:| __`other.`__  (mitigate object hallucinations by themselves through logical closed loops)|
-
+|21|EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models|:heavy_minus_sign:(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.09801-b31b1b.svg)](https://arxiv.org/pdf/2402.09801.pdf) |:heavy_minus_sign:|:heavy_minus_sign:| __`other.`__  (Unlearning)|
 
 
 ### Other
