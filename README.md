@@ -48,6 +48,7 @@ Here are some works that could evaluate the hallucination performances of MLLMs,
 |19|Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models|arxiv(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.15721-b31b1b.svg)](https://arxiv.org/pdf/2402.15721.pdf) |:heavy_minus_sign:|:heavy_minus_sign:|Hal-Eval(a new category: Event Hallucination)|
 |20|GenCeption: Evaluate Multimodal LLMs with Unlabeled Unimodal Data|arxiv(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.14973-b31b1b.svg)](https://arxiv.org/pdf/2402.14973.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/EQTPartners/GenCeption)|:heavy_minus_sign:| GenCeption (no need with high-quality annotation)|
 |21|How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts|arxiv(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.13220-b31b1b.svg)](https://arxiv.org/pdf/2402.13220.pdf) |:heavy_minus_sign:|:heavy_minus_sign:|MAD-Bench (a new category:Visual Confusion)|
+|22|Unified Hallucination Detection for Multimodal Large Language Models|arxiv(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.03190-b31b1b.svg)](https://arxiv.org/pdf/2402.03190.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/OpenKG-ORG/EasyDetect)|:heavy_minus_sign:| MHaluBench|
 
 
 
