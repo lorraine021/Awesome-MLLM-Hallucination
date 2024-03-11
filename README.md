@@ -20,8 +20,12 @@ If you find some interesting papers not included, please feel free to contact me
 ### Surveys
 | **Number** | **Title** | **Venue** | **Paper** | **Repo** | **Citation** |
 |:--------:|:--------:|:---------:|:---------:|:---------:|:---------:|
-|1| A Survey of Hallucination in “Large” Foundation Models| arxiv(23.09) | [![arXiv](https://img.shields.io/badge/arXiv-2309.05922-b31b1b.svg)](https://arxiv.org/pdf/2309.05922.pdf) | :heavy_minus_sign: | :star:|
-|2| A Survey on Hallucination in Large Vision-Language Models| arxiv(24.02) |  [![arXiv](https://img.shields.io/badge/arXiv-2402.00253-b31b1b.svg)](https://arxiv.org/pdf/2402.00253.pdf) | :heavy_minus_sign: | :heavy_minus_sign: |
+|1| A Survey on Multimodal Large Language Models| arxiv(23.06) | [![arXiv](https://img.shields.io/badge/arXiv-2306.13549-b31b1b.svg)](https://arxiv.org/pdf/2306.13549.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)|:fire:|
+|2| A Survey of Hallucination in “Large” Foundation Models| arxiv(23.09) | [![arXiv](https://img.shields.io/badge/arXiv-2309.05922-b31b1b.svg)](https://arxiv.org/pdf/2309.05922.pdf) | :heavy_minus_sign: | :star:|
+|3| A Survey on Hallucination in Large Vision-Language Models| arxiv(24.02) |  [![arXiv](https://img.shields.io/badge/arXiv-2402.00253-b31b1b.svg)](https://arxiv.org/pdf/2402.00253.pdf) | :heavy_minus_sign: | :heavy_minus_sign: |
+
+
+
 
 ### Benchmarks
 Here are some works that could evaluate the hallucination performances of MLLMs, including some popular benchmarks. Most work products fine-tuning using their benchmark dataset, which could reduce the likelihood of hallucinating without sacrificing its performance on other benchmarks. And some papers have designed clever ways to construct such datasets.
