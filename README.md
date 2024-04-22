@@ -58,7 +58,7 @@ Here are some works that could evaluate the hallucination performances of MLLMs,
 |26|Unified Hallucination Detection for Multimodal Large Language Models|arxiv(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.03190-b31b1b.svg)](https://arxiv.org/pdf/2402.03190.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/OpenKG-ORG/EasyDetect)|:heavy_minus_sign:| MHaluBench|
 |27|The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs|arxiv(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.03757-b31b1b.svg)](https://arxiv.org/pdf/2402.03757.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/MasaiahHan/CorrelationQA)|:heavy_minus_sign:|CorrelationQA|
 |28|Definition, Quantification, and Prescriptive Remediations|arxiv(24.03)|[![arXiv](https://img.shields.io/badge/arXiv-2403.17306-b31b1b.svg)](https://arxiv.org/pdf/2403.17306.pdf) |:heavy_minus_sign:|:heavy_minus_sign:|VHILT|
-
+|29|EgoThink: Evaluating First-Person Perspective Thinking Capability of Vision-Language Models|arxiv(24.03)|[![arXiv](https://img.shields.io/badge/arXiv-2403.17306-b31b1b.svg)](https://arxiv.org/pdf/2311.15596.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/AdaCheng/EgoThink)|:heavy_minus_sign:|EgoThink|
 
 
 
