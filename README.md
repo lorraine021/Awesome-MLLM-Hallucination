@@ -57,6 +57,7 @@ Here are some works that could evaluate the hallucination performances of MLLMs,
 |25|How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts|arxiv(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.13220-b31b1b.svg)](https://arxiv.org/pdf/2402.13220.pdf) |:heavy_minus_sign:|:heavy_minus_sign:|MAD-Bench (a new category:Visual Confusion)|
 |26|Unified Hallucination Detection for Multimodal Large Language Models|arxiv(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.03190-b31b1b.svg)](https://arxiv.org/pdf/2402.03190.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/OpenKG-ORG/EasyDetect)|:heavy_minus_sign:| MHaluBench|
 |27|The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs|arxiv(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.03757-b31b1b.svg)](https://arxiv.org/pdf/2402.03757.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-Code-7395C5.svg)](https://github.com/MasaiahHan/CorrelationQA)|:heavy_minus_sign:|CorrelationQA|
+|28|Definition, Quantification, and Prescriptive Remediations|arxiv(24.03)|[![arXiv](https://img.shields.io/badge/arXiv-2403.17306-b31b1b.svg)](https://arxiv.org/pdf/2403.17306.pdf) |:heavy_minus_sign:|:heavy_minus_sign:|VHILT|
 
 
 
