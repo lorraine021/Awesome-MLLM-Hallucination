@@ -102,7 +102,7 @@ __`dec.`__: decoding optimization &emsp; | &emsp; __`post.`__: post-process &ems
 |31|Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance **(MARINE)**|arxiv(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.08680-b31b1b.svg)](https://arxiv.org/pdf/2402.08680.pdf) |:heavy_minus_sign:|:heavy_minus_sign:| __`other.`__  (classifier-free guidance)|
 |32|SKIP \N: A SIMPLE METHOD TO REDUCE HALLUCINATION IN LARGE VISION-LANGUAGE MODELS|arxiv(24.02)|[![arXiv](https://img.shields.io/badge/arXiv-2402.01345v1-b31b1b.svg)](https://arxiv.org/pdf/2402.01345v1.pdf) |[![GitHub Page](https://img.shields.io/badge/GitHub-code-7395C5.svg)](https://github.com/hanmenghan/Skip-n)|:heavy_minus_sign:| __`other.`__  (Suppress Misleading Sign '\N')|
 |33|Evaluating and Mitigating Number Hallucinations in Large Vision-Language Models: A Consistency Perspective|arxiv(24.03)|[![arXiv](https://img.shields.io/badge/arXiv-2403.01373-b31b1b.svg)](https://arxiv.org/pdf/2403.01373.pdf) |:heavy_minus_sign:|:heavy_minus_sign:| __`other.`__  (inconsistency for number hallucination)|
-|34|Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning|arxiv(24.04)|[![arXiv](https://img.shields.io/badge/arXiv-2403.01373-b31b1b.svg)](https://arxiv.org/pdf/2404.10332.pdf) |:heavy_minus_sign:|:heavy_minus_sign:| __`data.`__ |
+|34|Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning|arxiv(24.04)|[![arXiv](https://img.shields.io/badge/arXiv-2404.10332-b31b1b.svg)](https://arxiv.org/pdf/2404.10332.pdf) |:heavy_minus_sign:|:heavy_minus_sign:| __`data.`__ |
 
 
 
